@@ -1,0 +1,8 @@
+title: SI 2024 Kahua Lolo Uila
+description: A homepage for the 2024 Summer Insititute Kahua Lolo Uila Cohort
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
