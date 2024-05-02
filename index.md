@@ -28,5 +28,8 @@
 
 ### Cultural Preservation Website
 
+### CS Code Quest Careers and Opportunities
+
 ## Team
 * [Michaella Villanueva](https://mvchaella.github.io)
+* [Briana Lee](https://bri111.github.io/)
