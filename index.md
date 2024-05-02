@@ -29,6 +29,9 @@
 ### Cultural Preservation Website
 
 ### CS Code Quest Careers and Opportunities
+* Create your own path through the different career opportunities
+* Learn what a typical day could be like for a software engineer, web developer, UX & UI Designer, etc.
+* [Start the Code Quest Now](https://bri111.github.io/code-quest/)
 
 ## Team
 * [Michaella Villanueva](https://mvchaella.github.io)
